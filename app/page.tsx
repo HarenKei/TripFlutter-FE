@@ -110,7 +110,7 @@ const Home: React.FC = () => {
       </ContentsContainer>
 
       <ContentsContainer>
-        <ContentsTitle>바로 여행 계획하기</ContentsTitle>
+        <ContentsTitle>트리플러터에게 여행 계획 맡기기</ContentsTitle>
         <StyledButton
           isBorder={true}
           buttonText={"트리플러터에게 떠나고 싶은 여행을 알려주세요!"}
